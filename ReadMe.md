@@ -1,5 +1,5 @@
 # 💫 About Me:
-Biomedical Engineering student with a passion for applying machine learning to solve real-world healthcare challenges. Eager to explore the intersection of AI and medicine through innovative projects and collaborative research.
+Biomedical Engineering student with a passion for neuroengineering and machine learning to solve real-world healthcare challenges. Eager to explore the intersection of AI and medicine through innovative projects and collaborative research.
 
 
 ## 🌐 Socials:
