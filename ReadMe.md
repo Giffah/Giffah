@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year Biomedical Engineering student at the University of Ghana (CGPA 3.74/4.00, Dean's Honour List) with research interests in computational neuroscience, neural signal processing, and neuromuscular biomechanics. Currently working on convolutive blind source separation of high-density sEMG recordings for motor unit decomposition, and developing a Koopman operator framework for reconstructing latent neural population dynamics from EEG. Preparing for a PhD in neural engineering or computational neuroscience (Fall 2027).
+Final-year Biomedical Engineering student at the University of Ghana with research interests in computational neuroscience, neural signal processing, and neuromuscular biomechanics. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alexander-Giffah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCvM2ieGvifxNqCo-af6eqHg)
