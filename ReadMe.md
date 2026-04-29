@@ -1,4 +1,4 @@
-About Me:
+# About Me:
 Biomedical Engineering student with a passion for neuroengineering and machine learning to solve real-world healthcare challenges. Eager to explore the intersection of AI and medicine through innovative projects and collaborative research.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alexander-Giffah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCvM2ieGvifxNqCo-af6eqHg) 
